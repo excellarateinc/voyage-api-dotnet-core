@@ -1,0 +1,8 @@
+C:\Source\voyage-api-dotnet-core\Voyage\Voyage.Common\bin\Debug\netcoreapp3.0\Voyage.Common.deps.json
+C:\Source\voyage-api-dotnet-core\Voyage\Voyage.Common\bin\Debug\netcoreapp3.0\Voyage.Common.dll
+C:\Source\voyage-api-dotnet-core\Voyage\Voyage.Common\bin\Debug\netcoreapp3.0\Voyage.Common.pdb
+C:\Source\voyage-api-dotnet-core\Voyage\Voyage.Common\obj\Debug\netcoreapp3.0\Voyage.Common.csprojAssemblyReference.cache
+C:\Source\voyage-api-dotnet-core\Voyage\Voyage.Common\obj\Debug\netcoreapp3.0\Voyage.Common.AssemblyInfoInputs.cache
+C:\Source\voyage-api-dotnet-core\Voyage\Voyage.Common\obj\Debug\netcoreapp3.0\Voyage.Common.AssemblyInfo.cs
+C:\Source\voyage-api-dotnet-core\Voyage\Voyage.Common\obj\Debug\netcoreapp3.0\Voyage.Common.dll
+C:\Source\voyage-api-dotnet-core\Voyage\Voyage.Common\obj\Debug\netcoreapp3.0\Voyage.Common.pdb

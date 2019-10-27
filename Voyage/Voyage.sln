@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Voyage.Api", "Voyage.Api\Voyage.Api.csproj", "{1CDA52D8-FDA6-4A59-844A-366AC4B22D72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voyage.Common", "Voyage.Common\Voyage.Common.csproj", "{F4A48B30-6844-4BCD-B91C-22FD52B4FCEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CDA52D8-FDA6-4A59-844A-366AC4B22D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CDA52D8-FDA6-4A59-844A-366AC4B22D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CDA52D8-FDA6-4A59-844A-366AC4B22D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CDA52D8-FDA6-4A59-844A-366AC4B22D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A48B30-6844-4BCD-B91C-22FD52B4FCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A48B30-6844-4BCD-B91C-22FD52B4FCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A48B30-6844-4BCD-B91C-22FD52B4FCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A48B30-6844-4BCD-B91C-22FD52B4FCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF08B600-CFEB-45DA-95A5-B9F6A8796536}
+	EndGlobalSection
+EndGlobal
