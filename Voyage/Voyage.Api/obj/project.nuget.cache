@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "WhEvChvvHNiR4GjzAs6WYpkhqf8OclVFpdpmqWNJqgE0VlKWH+v86bsl+ptoe52HG/KsWrglC+dMJQIz2tDkSg==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\voyage-api-dotnet-core\\Voyage\\Voyage.Api\\Voyage.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pao Thao\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",
+    "C:\\Users\\Pao Thao\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Pao Thao\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\4.1.1\\microsoft.aspnetcore.mvc.versioning.4.1.1.nupkg.sha512",
+    "C:\\Users\\Pao Thao\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Pao Thao\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}

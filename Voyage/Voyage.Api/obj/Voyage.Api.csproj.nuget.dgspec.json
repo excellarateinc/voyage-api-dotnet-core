@@ -1,37 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\voyage-api-dotnet-core\\Voyage\\Voyage.Api\\Voyage.Api.csproj": {}
+    "C:\\repos\\voyage-api-dotnet-core\\Voyage\\Voyage.Api\\Voyage.Api.csproj": {}
   },
   "projects": {
-    "C:\\Source\\voyage-api-dotnet-core\\Voyage\\Voyage.Api\\Voyage.Api.csproj": {
+    "C:\\repos\\voyage-api-dotnet-core\\Voyage\\Voyage.Api\\Voyage.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\voyage-api-dotnet-core\\Voyage\\Voyage.Api\\Voyage.Api.csproj",
+        "projectUniqueName": "C:\\repos\\voyage-api-dotnet-core\\Voyage\\Voyage.Api\\Voyage.Api.csproj",
         "projectName": "Voyage.Api",
-        "projectPath": "C:\\Source\\voyage-api-dotnet-core\\Voyage\\Voyage.Api\\Voyage.Api.csproj",
-        "packagesPath": "C:\\Users\\Raymer\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\voyage-api-dotnet-core\\Voyage\\Voyage.Api\\obj\\",
+        "projectPath": "C:\\repos\\voyage-api-dotnet-core\\Voyage\\Voyage.Api\\Voyage.Api.csproj",
+        "packagesPath": "C:\\Users\\Pao Thao\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\voyage-api-dotnet-core\\Voyage\\Voyage.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Raymer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pao Thao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Source\\voyage-api-dotnet-core\\Voyage\\Voyage.Common\\Voyage.Common.csproj": {
-                "projectPath": "C:\\Source\\voyage-api-dotnet-core\\Voyage\\Voyage.Common\\Voyage.Common.csproj"
+              "C:\\repos\\voyage-api-dotnet-core\\Voyage\\Voyage.Common\\Voyage.Common.csproj": {
+                "projectPath": "C:\\repos\\voyage-api-dotnet-core\\Voyage\\Voyage.Common\\Voyage.Common.csproj"
               }
             }
           }
@@ -43,15 +43,19 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
           "dependencies": {
             "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[4.1.1, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
-              "version": "[1.9.5, )"
+              "version": "[1.10.8, )"
             }
           },
           "imports": [
@@ -72,35 +76,35 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Source\\voyage-api-dotnet-core\\Voyage\\Voyage.Common\\Voyage.Common.csproj": {
+    "C:\\repos\\voyage-api-dotnet-core\\Voyage\\Voyage.Common\\Voyage.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\voyage-api-dotnet-core\\Voyage\\Voyage.Common\\Voyage.Common.csproj",
+        "projectUniqueName": "C:\\repos\\voyage-api-dotnet-core\\Voyage\\Voyage.Common\\Voyage.Common.csproj",
         "projectName": "Voyage.Common",
-        "projectPath": "C:\\Source\\voyage-api-dotnet-core\\Voyage\\Voyage.Common\\Voyage.Common.csproj",
-        "packagesPath": "C:\\Users\\Raymer\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\voyage-api-dotnet-core\\Voyage\\Voyage.Common\\obj\\",
+        "projectPath": "C:\\repos\\voyage-api-dotnet-core\\Voyage\\Voyage.Common\\Voyage.Common.csproj",
+        "packagesPath": "C:\\Users\\Pao Thao\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\voyage-api-dotnet-core\\Voyage\\Voyage.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Raymer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pao Thao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -111,7 +115,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
@@ -127,7 +131,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

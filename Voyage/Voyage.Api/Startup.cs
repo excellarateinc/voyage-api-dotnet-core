@@ -11,6 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Voyage.Api.Extensions;
 
 namespace Voyage.Api
 {
@@ -55,6 +56,15 @@ namespace Voyage.Api
             //            ValidIssuer = Configuration["Cognito:Issuer"]
             //        };
             //    });
+
+            //MVC service registration
+            //https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-3.0&tabs=visual-studio#mvc-service-registration
+            services.AddControllersWithViews(options =>
+            {
+                options.UseGeneralRoutePrefix("api/v{version:apiVersion}");
+            });
+
+            services.AddApiVersioning(options => options.ReportApiVersions = true);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
