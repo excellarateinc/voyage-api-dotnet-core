@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WhEvChvvHNiR4GjzAs6WYpkhqf8OclVFpdpmqWNJqgE0VlKWH+v86bsl+ptoe52HG/KsWrglC+dMJQIz2tDkSg==",
+  "dgSpecHash": "PwKRPP6MYE/4DNSiOIY9+4Ug5sNcy3RQy+HvhEdq/1Utxlw80klKjKea8SnCWfx6vFM1mplLtqPhv+FQ6Q1ESA==",
   "success": true,
   "projectFilePath": "C:\\repos\\voyage-api-dotnet-core\\Voyage\\Voyage.Api\\Voyage.Api.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,11 @@
     "C:\\Users\\Pao Thao\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\Pao Thao\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\4.1.1\\microsoft.aspnetcore.mvc.versioning.4.1.1.nupkg.sha512",
     "C:\\Users\\Pao Thao\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
-    "C:\\Users\\Pao Thao\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+    "C:\\Users\\Pao Thao\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\Pao Thao\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
+    "C:\\Users\\Pao Thao\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\5.5.1\\swashbuckle.aspnetcore.annotations.5.5.1.nupkg.sha512",
+    "C:\\Users\\Pao Thao\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.1\\swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "C:\\Users\\Pao Thao\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.1\\swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,10 @@
+C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Database\bin\Debug\Voyage.Database.dacpac
+C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Database\bin\Debug\Voyage.Database.dll
+C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Database\bin\Debug\Voyage.Database.pdb
+C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Database\obj\Debug\Voyage.Database.sqlprojAssemblyReference.cache
+C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Database\obj\Debug\Model.xml
+C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Database\obj\Debug\refactor.xml
+C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Database\obj\Debug\postdeploy.sql
+C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Database\obj\Debug\predeploy.sql
+C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Database\obj\Debug\Voyage.Database.dll
+C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Database\obj\Debug\Voyage.Database.pdb

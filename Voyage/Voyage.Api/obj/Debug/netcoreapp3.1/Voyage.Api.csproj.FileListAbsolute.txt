@@ -15,9 +15,6 @@ C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Api\bin\Debug\netcoreapp3.1\Voyage
 C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Api\obj\Debug\netcoreapp3.1\Voyage.Api.csprojAssemblyReference.cache
 C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Api\obj\Debug\netcoreapp3.1\Voyage.Api.AssemblyInfoInputs.cache
 C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Api\obj\Debug\netcoreapp3.1\Voyage.Api.AssemblyInfo.cs
-C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Api\obj\Debug\netcoreapp3.1\Voyage.Api.csproj.CoreCompileInputs.cache
-C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Api\obj\Debug\netcoreapp3.1\Voyage.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Api\obj\Debug\netcoreapp3.1\Voyage.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Api\obj\Debug\netcoreapp3.1\Voyage.Api.RazorTargetAssemblyInfo.cache
 C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Api\obj\Debug\netcoreapp3.1\Voyage.Api.csproj.CopyComplete
 C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Api\obj\Debug\netcoreapp3.1\staticwebassets\Voyage.Api.StaticWebAssets.Manifest.cache
@@ -25,3 +22,5 @@ C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Api\obj\Debug\netcoreapp3.1\static
 C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Api\obj\Debug\netcoreapp3.1\Voyage.Api.dll
 C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Api\obj\Debug\netcoreapp3.1\Voyage.Api.pdb
 C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Api\obj\Debug\netcoreapp3.1\Voyage.Api.genruntimeconfig.cache
+C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\repos\voyage-api-dotnet-core\Voyage\Voyage.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
